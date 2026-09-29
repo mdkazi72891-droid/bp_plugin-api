@@ -1,1 +1,7 @@
-
+{
+  "data_endpoint": "https://script.google.com/macros/s/AKfycbwP1T5JoePdjJe89B40gd0Cuz7N9npIwUvWzcuBHLLOKqwkd7xZrRhF1CQ4be3U1Ll9YA/exec",
+  "update_info": {
+      "latest_version": "7.9",
+      "package_url": "https://github.com/mdkazi72891-droid/backend-pixel-pro/releases/download/v7.3/backend-pixel-pro.zip"
+  }
+}
